@@ -11,7 +11,7 @@ http://source.android.com/source/downloading.html#installing-repo
 
 	mkdir ~/jtk1-android-l-open-source
 	cd ~/jtk1-android-l-open-source
-	repo init -u https://github.com/NVIDIA/android-manifest.git -b jtk1-android-l -m jtk1_android.xml
+	repo init -u https://github.com/NVIDIA/android-manifest.git -b jtk1-android-tv -m jtk1_android.xml
 	repo sync -j5
 
 
